@@ -6,8 +6,6 @@
 
 <br/>
 
-I'm Celal Can, software engineer and technology enthusiast.
-<br/>
 
 
 - :rocket: I’m looking a job!
