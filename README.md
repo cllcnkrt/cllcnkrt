@@ -1,6 +1,7 @@
 <h1 align="left">Hi there I'm Celal Can, software engineer and technology enthusiast. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=cllcnkrt.cllcnkrt)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cllcnkrt&label=Profile%20views&color=0e75b6&style=flat" alt="cllcnkrt" /> </p>
 
 <br/>
 
