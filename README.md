@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React**
 
