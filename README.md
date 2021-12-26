@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React**
 
