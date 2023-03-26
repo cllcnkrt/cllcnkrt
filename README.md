@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cllcnkrt&label=Profile%20views&color=0e75b6&style=flat" alt="cllcnkrt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cllcnkrt" alt="cllcnkrt" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Next**
 
 - 📫 How to reach me **cllcnkrt@gmail.com**
 
