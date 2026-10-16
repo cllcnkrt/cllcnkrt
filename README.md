@@ -110,7 +110,7 @@ Figma • Adobe XD • D3 • Visx
 
 ## 📫 Contact
 - **Email:** cllcnkrt@gmail.com  
-- **Phone:** +49 178 4669648  
+- **Phone:** +49 15255411922
 - **LinkedIn:** https://linkedin.com/in/celalcankurt  
 - **LeetCode:** https://leetcode.com/cllcnkrt  
 - **HackerRank:** https://www.hackerrank.com/cllcnkrt  
