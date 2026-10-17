@@ -1,118 +1,49 @@
-<h1 align="center">Hi 👋 I'm Celal Can Kurt</h1>
-<h3 align="center">Frontend Engineer based in Berlin, Germany</h3>
+# Celal Can Kurt
 
-<p align="center">
-Building fast, scalable, real-time applications with React, Next.js and TypeScript.
-</p>
+**Frontend Engineer · Berlin**
 
----
-
-## 🚀 About Me
-- Frontend engineer with strong experience in **React**, **Next.js**, **TypeScript**, and **high-performance interfaces**.  
-- Currently working on **real-time video, audio, chat, calendar and scheduling platforms** used by 1,000+ users.  
-- Deep experience with **state modeling**, **UI performance optimization**, **real-time systems**, and **frontend architecture**.  
-- Strong background working across **React Native**, **design systems**, **WebRTC**, **Twilio**, and **collaboration tools**.
+I build real-time collaboration products with React, Next.js and TypeScript, and ship them to web, mobile and desktop from a single codebase. 4.5 years of experience, currently at [Quickload](https://quickload.com).
 
 ---
 
-## 🧩 Featured Work
+### Currently
 
-### 🔹 Real-Time Communication Platform (Parea)
-**Tech:** React, Next.js, TypeScript, Zustand, Redux Toolkit, WebRTC, Twilio, SignalR, WebSockets, S3, Jest  
-- Built **video/audio calls**, **screen sharing**, **messaging**, **presence**, and **real-time file sharing**.  
-- Improved user engagement by **25%** with advanced collaboration tools.  
-- Reduced interaction latency and improved stability through optimized WebRTC/Twilio pipelines.  
-- Designed scalable states & UI architecture for multi-user interactions.
+Working on **PAREA**, a real-time virtual office platform with video and audio calls, screen sharing, messaging, presence and scheduling, used by 1,000+ people.
 
----
+### Selected work
 
-### 🔹 Scheduling & Calendar System
-**Tech:** React, Next.js, Tailwind, TypeScript  
-- Built **shift groups**, **time-off**, **clock-in/out**, **availability**, **drag/drop scheduling**.  
-- Solved complex timezone, rendering and performance issues.  
-- Built a smooth calendar scroll experience with efficient virtualization.
+**PAREA: real-time virtual office**
+- Built the messaging system from scratch, including presence, real-time file sharing and multi-user state
+- Re-architected the WebRTC audio and video pipeline on Twilio, which reduced latency and improved call stability
+- Shipped collaboration features that increased user engagement by 25%
 
----
+**Shift management and scheduling**
+- Delivered shift groups, time-off, clock-in/out, availability and drag-and-drop scheduling
+- Solved timezone handling and built virtualized calendar scrolling for large schedules
 
-### 🔹 QuickLoad Web Platform
-**Tech:** React, Next.js, Redux Toolkit, JS/TS, Styled Components, Webpack  
-- Added new logistics features and fixed critical issues, improving efficiency by **12%**.  
-- Refactored large modules for long-term maintainability.
+**Cross-platform delivery**
+- React Native (Expo) and Electron apps that share code with the web product
+- Reduced mobile load times by 15%
 
----
+**QuickLoad: freight platform connecting shippers and drivers**
+- Built logistics features and fixed critical issues, improving operational efficiency by 12%
+- Refactored large legacy modules for long-term maintainability
 
-### 🔹 React Native Mobile Performance Improvements
-**Tech:** React Native, Expo, Redux Toolkit, GraphQL, TS  
-- Reduced load times by **15%** and improved perceived performance for 1,000+ users.
+**Orema (previous role)**
+- Built real-time monitoring dashboards for drilling and mining machinery, helping reduce operational costs by 19%
+- Mentored interns
 
----
+### Stack
 
-### 🔹 Orema — Monitoring & Tracking Systems
-**Tech:** React, TypeScript, Chakra UI, SCSS, Redux Thunk  
-- Built real-time monitoring dashboards for drilling & mining machinery.  
-- Reduced operational cost by **19%** with better data insights.  
-- Delivered 10+ high-pressure deadlines monthly, mentored interns, and improved team output.
+| | |
+|---|---|
+| **Core** | TypeScript, React, Next.js, Tailwind CSS |
+| **State and data** | Zustand, Redux Toolkit, React Query, GraphQL, REST |
+| **Real-time** | WebRTC, Twilio, SignalR, WebSockets |
+| **Mobile and desktop** | React Native, Expo, Electron |
+| **Testing** | Jest, React Testing Library, Cypress |
+| **Also comfortable with** | Node.js, PostgreSQL, Prisma, AWS S3/CloudFront, Vercel |
 
----
+### Contact
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend Core
-React • Next.js • React Hooks • TypeScript • JavaScript  
-Zustand • Redux • Redux Toolkit • Redux Thunk • React Query  
-Styled Components • Tailwind CSS • Chakra UI • Material UI • Ant Design  
-Sass/SCSS • CSS Modules • Bootstrap
-
-### 📱 Mobile
-React Native • Expo • Redux Toolkit
-
-### 🔗 Real-Time & Communication
-WebRTC • Twilio • SignalR • WebSockets • Socket Patterns  
-Real-time Presence • Streaming • Screen Sharing
-
-### 🧪 Testing & Quality
-Jest • React Testing Library • Unit Testing • Cypress  
-ESLint • Prettier
-
-### 🔧 Tooling & Bundlers
-Webpack • Babel • Vite  
-NPM • Yarn • Git
-
-### 🗄 Backend & APIs
-Node.js • Express  
-REST APIs • GraphQL • tRPC  
-Prisma • SQL • PostgreSQL • MongoDB • Firebase
-
-### ☁️ Cloud & Infrastructure
-AWS S3 / CloudFront  
-Firebase  
-Vercel  
-Postman
-
-### 🎨 Design & Prototyping
-Figma • Adobe XD • D3 • Visx
-
----
-
-## 🎓 Education
-**Medipol University** — BSc Computer Engineering  
-2015 – 2021
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cllcnkrt&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cllcnkrt&layout=compact&theme=default" height="160" />
-</p>
-
----
-
-## 📫 Contact
-- **Email:** cllcnkrt@gmail.com  
-- **Phone:** +49 15255411922
-- **LinkedIn:** https://linkedin.com/in/celalcankurt  
-- **LeetCode:** https://leetcode.com/cllcnkrt  
-- **HackerRank:** https://www.hackerrank.com/cllcnkrt  
-
----
+[LinkedIn](https://linkedin.com/in/celalcankurt) · [Email](mailto:cllcnkrt@gmail.com) · [LeetCode](https://leetcode.com/cllcnkrt)
